@@ -8,7 +8,7 @@ Desktop: 1025px até 1399px
 Grandes Telas: acima de 1400px
 */
 
-@media script and (min-width: 768px) {
+@media screen and (min-width: 767px) {
     #burguer {
         display: none;
     }
@@ -22,6 +22,6 @@ Grandes Telas: acima de 1400px
     }
 
     main {
-        width: 768px;
+        width: 767px;
     }
 }
